@@ -1,0 +1,8 @@
+F:\文件\sactrl\sactrlapp\SACtrl\SACtrl\bin\Release\SACtrl.exe.config
+F:\文件\sactrl\sactrlapp\SACtrl\SACtrl\bin\Release\SACtrl.exe
+F:\文件\sactrl\sactrlapp\SACtrl\SACtrl\bin\Release\SACtrl.pdb
+F:\文件\sactrl\sactrlapp\SACtrl\SACtrl\obj\Release\SACtrl.Form1.resources
+F:\文件\sactrl\sactrlapp\SACtrl\SACtrl\obj\Release\SACtrl.Properties.Resources.resources
+F:\文件\sactrl\sactrlapp\SACtrl\SACtrl\obj\Release\SACtrl.csproj.GenerateResource.Cache
+F:\文件\sactrl\sactrlapp\SACtrl\SACtrl\obj\Release\SACtrl.exe
+F:\文件\sactrl\sactrlapp\SACtrl\SACtrl\obj\Release\SACtrl.pdb
